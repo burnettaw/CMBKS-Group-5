@@ -1,5 +1,5 @@
 # CMBKS-Group-5
-UNC Bootcamp Data Vizualization
+UNC Bootcamp Data Visualization
 This Repository is created for CMBKS-Group-5 to work and collaborate on our project to analyze the Covid Effects on Racial or Ethinic groups within the US.
 
 Questions to be Answered Includes for each Ethic/Racial group:
