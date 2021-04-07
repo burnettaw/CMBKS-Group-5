@@ -25,6 +25,11 @@ Additional
   7. Is there any relation with socio-econonic status and deaths.
   8. What are the age groups most affected if data is available?
 
+Major Goals
+1. Positive Test Analysis
+2. Death Analysis
+3. Testing Analysis(What is the difference between 1 an 2?)
+
 Milestones to Complete
 1. Set up collaboration Environment
 2. Locate, view and load data
