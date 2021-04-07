@@ -1,8 +1,21 @@
 # CMBKS-Group-5
 UNC Bootcamp Data Visualization
 This Repository is created for CMBKS-Group-5 to work and collaborate on our project to analyze the Covid Effects on Racial or Ethinic groups within the US.
+Group Members
+1. Carline Philippe
+2. Manar
+3. Burnetta Wood
+4. Keishauna
+5. Spencer
 
-Questions to be Answered Includes for each Ethic/Racial group:
+Questions to be Answered Include for each Ethic/Racial group:
+Initial:
+a.	What ethnic groups contain the most positive tests in each state?
+b.	What percentage of positive tests in each ethnic group in each state resulted in death?
+c.	Which ethnic group had the most COVID testing?
+
+
+Additional
   1. Who had the least/most tests done?
   2. Who had the lowest/highest survival rate?
   3. Who had the least/most deaths?
